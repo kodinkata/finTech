@@ -1,2 +1,2 @@
-# rpi
-Different Projects (R)
+# codeR
+Basic Skills with R
