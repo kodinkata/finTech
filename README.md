@@ -1,7 +1,7 @@
 # codeR
 Basic Financial Skills with R
 
-Portfolio Optimization, Numerical Methods, Financial Mathematics, Options Pricing, Multidimensional Geometric Brownian Motion process and more
+Risk Management, Portfolio Optimization, Numerical Methods, Financial Mathematics, Options Pricing, Multidimensional Geometric Brownian Motion process and more
 
 Books Read:
 	Programming with R: Financial Analytics with R - Building a Laptop Laboratory for Data Science (MARK J. BENNETT & DIRK L. HUGEN )
