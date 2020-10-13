@@ -1,5 +1,5 @@
 #USing Heston's stochastic volatility model for the real world using an Euler scheme 
-#Simulating 10,000 paths over 1 year horizo using given parameters
+#Simulating 10,000 paths over 1 year horizon using given parameters
 #Output: plotting asset price paths and volatility paths
 
 
