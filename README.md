@@ -1,5 +1,4 @@
 # codeR
-Basic Financial Skills with R
 
 Risk Management, Portfolio Optimization, Numerical Methods, Financial Mathematics, Options Pricing, Multidimensional Geometric Brownian Motion process and more
 
